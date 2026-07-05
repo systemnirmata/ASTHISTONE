@@ -1,0 +1,34 @@
+# Allow all search engines and AI crawlers to read site content
+User-agent: *
+Allow: /
+
+# Specifically highlight common AI crawlers to ensure full access
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Cohere-ai
+Allow: /
+
+User-agent: Anthropic-ai
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# Link to sitemap
+Sitemap: https://www.asthistone.com/sitemap.xml

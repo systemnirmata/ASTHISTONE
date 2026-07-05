@@ -31,4 +31,4 @@ User-agent: Applebot-Extended
 Allow: /
 
 # Link to sitemap
-Sitemap: https://www.asthistone.com/sitemap.xml
+Sitemap: https://asthistone.vercel.app/sitemap.xml
